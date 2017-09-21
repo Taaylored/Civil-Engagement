@@ -9,229 +9,11 @@
 	],
 "creatorBuild": "25900",
 "files": {
-	"\/_config.yml": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_config.yml",
-		"oF": 0
-		},
-	"\/_data\/breakpoints.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/breakpoints.yml",
-		"oF": 0
-		},
-	"\/_data\/browser-bugs.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/browser-bugs.yml",
-		"oF": 0
-		},
-	"\/_data\/browser-features.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/browser-features.yml",
-		"oF": 0
-		},
-	"\/_data\/colors.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/colors.yml",
-		"oF": 0
-		},
-	"\/_data\/core-team.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/core-team.yml",
-		"oF": 0
-		},
-	"\/_data\/grays.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/grays.yml",
-		"oF": 0
-		},
-	"\/_data\/nav.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/nav.yml",
-		"oF": 0
-		},
-	"\/_data\/showcase.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/showcase.yml",
-		"oF": 0
-		},
-	"\/_data\/theme-colors.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/theme-colors.yml",
-		"oF": 0
-		},
-	"\/_data\/translations.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/translations.yml",
-		"oF": 0
-		},
-	"\/_includes\/ads.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/ads.html",
-		"oF": 0
-		},
-	"\/_includes\/callout-danger-async-methods.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_includes\/callout-danger-async-methods.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_includes\/callout-warning-color-assistive-technologies.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_includes\/callout-warning-color-assistive-technologies.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_includes\/docs-navbar.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/docs-navbar.html",
-		"oF": 0
-		},
-	"\/_includes\/docs-sidebar.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/docs-sidebar.html",
-		"oF": 0
-		},
-	"\/_includes\/footer.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/footer.html",
-		"oF": 0
-		},
-	"\/_includes\/header.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/header.html",
-		"oF": 0
-		},
-	"\/_includes\/icons\/bootstrap.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_includes\/icons\/bootstrap.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_includes\/icons\/github.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_includes\/icons\/github.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_includes\/icons\/menu.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_includes\/icons\/menu.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_includes\/icons\/slack.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_includes\/icons\/slack.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_includes\/icons\/twitter.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_includes\/icons\/twitter.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_includes\/scripts.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/scripts.html",
-		"oF": 0
-		},
-	"\/_includes\/social.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/social.html",
-		"oF": 0
-		},
-	"\/_plugins\/bugify.rb": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_plugins\/bugify.rb",
-		"oF": 0
-		},
-	"\/_plugins\/callout.rb": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_plugins\/callout.rb",
-		"oF": 0
-		},
-	"\/_plugins\/example.rb": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_plugins\/example.rb",
-		"oF": 0
-		},
-	"\/_plugins\/markdown-block.rb": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_plugins\/markdown-block.rb",
-		"oF": 0
-		},
 	"\/assets\/brand\/bootstrap-outline.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/brand\/bootstrap-outline.svg",
+		"oAP": "\/build\/assets\/brand\/bootstrap-outline.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -241,7 +23,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/brand\/bootstrap-punchout.svg",
+		"oAP": "\/build\/assets\/brand\/bootstrap-punchout.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -251,10 +33,10 @@
 		"ft": 32768,
 		"iS": 43226,
 		"oA": 0,
-		"oAP": "\/assets\/brand\/bootstrap-social-logo.png",
+		"oAP": "\/build\/assets\/brand\/bootstrap-social-logo.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -262,10 +44,10 @@
 		"ft": 32768,
 		"iS": 268279,
 		"oA": 0,
-		"oAP": "\/assets\/brand\/bootstrap-social.png",
+		"oAP": "\/build\/assets\/brand\/bootstrap-social.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -273,7 +55,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/brand\/bootstrap-solid.svg",
+		"oAP": "\/build\/assets\/brand\/bootstrap-solid.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -285,24 +67,24 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/css\/docs.min-min.css",
+		"oAP": "\/build\/assets\/css\/docs.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
 	"\/assets\/css\/docs.min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/css\/docs.min.css.map",
+		"oAP": "\/build\/assets\/css\/docs.min.css.map",
 		"oF": 0
 		},
 	"\/assets\/img\/bootstrap-stack.png": {
 		"ft": 32768,
 		"iS": 138403,
 		"oA": 0,
-		"oAP": "\/assets\/img\/bootstrap-stack.png",
+		"oAP": "\/build\/assets\/img\/bootstrap-stack.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -310,19 +92,19 @@
 		"ft": 32768,
 		"iS": 225111,
 		"oA": 0,
-		"oAP": "\/assets\/img\/bootstrap-themes.png",
+		"oAP": "\/build\/assets\/img\/bootstrap-themes.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/js\/docs.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/assets\/js\/docs.min-min.js",
+		"oAP": "\/build\/assets\/js\/docs.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -330,9 +112,9 @@
 	"\/assets\/js\/ie-emulation-modes-warning.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/assets\/js\/ie-emulation-modes-warning-min.js",
+		"oAP": "\/build\/assets\/js\/ie-emulation-modes-warning-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -340,9 +122,9 @@
 	"\/assets\/js\/ie10-viewport-bug-workaround.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/assets\/js\/ie10-viewport-bug-workaround-min.js",
+		"oAP": "\/build\/assets\/js\/ie10-viewport-bug-workaround-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -350,9 +132,9 @@
 	"\/assets\/js\/src\/application.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/assets\/js\/src\/application-min.js",
+		"oAP": "\/build\/assets\/js\/src\/application-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -360,9 +142,9 @@
 	"\/assets\/js\/vendor\/anchor.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/assets\/js\/vendor\/anchor.min-min.js",
+		"oAP": "\/build\/assets\/js\/vendor\/anchor.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -370,9 +152,9 @@
 	"\/assets\/js\/vendor\/clipboard.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/assets\/js\/vendor\/clipboard.min-min.js",
+		"oAP": "\/build\/assets\/js\/vendor\/clipboard.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -380,9 +162,9 @@
 	"\/assets\/js\/vendor\/holder.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/assets\/js\/vendor\/holder.min-min.js",
+		"oAP": "\/build\/assets\/js\/vendor\/holder.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -390,9 +172,9 @@
 	"\/assets\/js\/vendor\/jquery-slim.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/assets\/js\/vendor\/jquery-slim.min-min.js",
+		"oAP": "\/build\/assets\/js\/vendor\/jquery-slim.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -400,12 +182,25 @@
 	"\/assets\/js\/vendor\/popper.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/assets\/js\/vendor\/popper.min-min.js",
+		"oAP": "\/build\/assets\/js\/vendor\/popper.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/assets\/palette.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/build\/assets\/palette.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/assets\/scss\/_ads.scss": {
 		"aP": 0,
@@ -415,7 +210,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_ads.css",
+		"oAP": "\/build\/assets\/scss\/_ads.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -428,7 +223,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_algolia.css",
+		"oAP": "\/build\/assets\/scss\/_algolia.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -441,7 +236,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_anchor.css",
+		"oAP": "\/build\/assets\/scss\/_anchor.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -454,7 +249,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_brand.css",
+		"oAP": "\/build\/assets\/scss\/_brand.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -467,7 +262,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_browser-bugs.css",
+		"oAP": "\/build\/assets\/scss\/_browser-bugs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -480,7 +275,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_buttons.css",
+		"oAP": "\/build\/assets\/scss\/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -493,7 +288,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_callouts.css",
+		"oAP": "\/build\/assets\/scss\/_callouts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -506,7 +301,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_clipboard-js.css",
+		"oAP": "\/build\/assets\/scss\/_clipboard-js.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -519,7 +314,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_colors.css",
+		"oAP": "\/build\/assets\/scss\/_colors.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -532,7 +327,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_component-examples.css",
+		"oAP": "\/build\/assets\/scss\/_component-examples.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -545,7 +340,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_content.css",
+		"oAP": "\/build\/assets\/scss\/_content.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -558,7 +353,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_examples.css",
+		"oAP": "\/build\/assets\/scss\/_examples.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -571,7 +366,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_featured-sites.css",
+		"oAP": "\/build\/assets\/scss\/_featured-sites.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -584,7 +379,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_footer.css",
+		"oAP": "\/build\/assets\/scss\/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -597,7 +392,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_masthead.css",
+		"oAP": "\/build\/assets\/scss\/_masthead.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -610,7 +405,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_nav.css",
+		"oAP": "\/build\/assets\/scss\/_nav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -623,7 +418,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_page-header.css",
+		"oAP": "\/build\/assets\/scss\/_page-header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -636,7 +431,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_responsive-tests.css",
+		"oAP": "\/build\/assets\/scss\/_responsive-tests.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -649,7 +444,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_sidebar.css",
+		"oAP": "\/build\/assets\/scss\/_sidebar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -662,7 +457,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_skiplink.css",
+		"oAP": "\/build\/assets\/scss\/_skiplink.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -675,7 +470,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_syntax.css",
+		"oAP": "\/build\/assets\/scss\/_syntax.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -688,7 +483,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_team.css",
+		"oAP": "\/build\/assets\/scss\/_team.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -701,7 +496,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/scss\/_variables.css",
+		"oAP": "\/build\/assets\/scss\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -714,100 +509,16 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/scss\/docs.css",
+		"oAP": "\/build\/assets\/scss\/docs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/bower.json": {
-		"ft": 524288,
+	"\/build": {
+		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/bower-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/build\/.htmllintrc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/.htmllintrc",
+		"oAP": "\/build\/build",
 		"oF": 0
-		},
-	"\/build\/change-version.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/change-version-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/build\/gcp-key.json.enc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/gcp-key.json.enc",
-		"oF": 0
-		},
-	"\/build\/lint-vars.sh": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/lint-vars.sh",
-		"oF": 0
-		},
-	"\/build\/postcss.config.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/postcss.config-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/build\/sauce_browsers.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sauce_browsers.yml",
-		"oF": 0
-		},
-	"\/build\/stamp.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/stamp-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/build\/uglifyjs.config.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/build\/uglifyjs.config-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/build\/upload-preview.sh": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/upload-preview.sh",
-		"oF": 0
-		},
-	"\/CNAME": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/CNAME",
-		"oF": 0
-		},
-	"\/composer.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/composer-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
 		},
 	"\/dist\/css\/bootstrap-grid.css": {
 		"aP": 1,
@@ -815,14 +526,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/css\/bootstrap-grid-min.css",
+		"oAP": "\/build\/dist\/css\/bootstrap-grid-min.css",
 		"oF": 0,
 		"oS": 3
 		},
 	"\/dist\/css\/bootstrap-grid.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/css\/bootstrap-grid.css.map",
+		"oAP": "\/build\/dist\/css\/bootstrap-grid.css.map",
 		"oF": 0
 		},
 	"\/dist\/css\/bootstrap-grid.min.css": {
@@ -831,14 +542,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/css\/bootstrap-grid.min-min.css",
+		"oAP": "\/build\/dist\/css\/bootstrap-grid.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
 	"\/dist\/css\/bootstrap-grid.min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/css\/bootstrap-grid.min.css.map",
+		"oAP": "\/build\/dist\/css\/bootstrap-grid.min.css.map",
 		"oF": 0
 		},
 	"\/dist\/css\/bootstrap-reboot.css": {
@@ -847,14 +558,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/css\/bootstrap-reboot-min.css",
+		"oAP": "\/build\/dist\/css\/bootstrap-reboot-min.css",
 		"oF": 0,
 		"oS": 3
 		},
 	"\/dist\/css\/bootstrap-reboot.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/css\/bootstrap-reboot.css.map",
+		"oAP": "\/build\/dist\/css\/bootstrap-reboot.css.map",
 		"oF": 0
 		},
 	"\/dist\/css\/bootstrap-reboot.min.css": {
@@ -863,14 +574,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/css\/bootstrap-reboot.min-min.css",
+		"oAP": "\/build\/dist\/css\/bootstrap-reboot.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
 	"\/dist\/css\/bootstrap-reboot.min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/css\/bootstrap-reboot.min.css.map",
+		"oAP": "\/build\/dist\/css\/bootstrap-reboot.min.css.map",
 		"oF": 0
 		},
 	"\/dist\/css\/bootstrap.css": {
@@ -879,14 +590,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/css\/bootstrap-min.css",
+		"oAP": "\/build\/dist\/css\/bootstrap-min.css",
 		"oF": 0,
 		"oS": 3
 		},
 	"\/dist\/css\/bootstrap.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/css\/bootstrap.css.map",
+		"oAP": "\/build\/dist\/css\/bootstrap.css.map",
 		"oF": 0
 		},
 	"\/dist\/css\/bootstrap.min.css": {
@@ -895,22 +606,22 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/css\/bootstrap.min-min.css",
+		"oAP": "\/build\/dist\/css\/bootstrap.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
 	"\/dist\/css\/bootstrap.min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/css\/bootstrap.min.css.map",
+		"oAP": "\/build\/dist\/css\/bootstrap.min.css.map",
 		"oF": 0
 		},
 	"\/dist\/js\/bootstrap.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/dist\/js\/bootstrap-min.js",
+		"oAP": "\/build\/dist\/js\/bootstrap-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -918,45 +629,61 @@
 	"\/dist\/js\/bootstrap.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/dist\/js\/bootstrap.min-min.js",
+		"oAP": "\/build\/dist\/js\/bootstrap.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/Gemfile": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Gemfile",
+	"\/html\/head.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/build\/html\/head.html",
 		"oF": 0
 		},
-	"\/Gemfile.lock": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Gemfile.lock",
-		"oF": 0
-		},
-	"\/Gruntfile.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
+	"\/img\/dark_dotted\/dark_dotted.png": {
+		"ft": 32768,
+		"iS": 108,
 		"oA": 0,
-		"oAP": "\/Gruntfile-min.js",
+		"oAP": "\/build\/img\/dark_dotted\/dark_dotted.png",
 		"oF": 0,
-		"sC": 3,
-		"tS": 0
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
-	"\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index.html",
+	"\/img\/dark_dotted\/dark_dotted_@2X.png": {
+		"ft": 32768,
+		"iS": 3593,
+		"oA": 0,
+		"oAP": "\/build\/img\/dark_dotted\/dark_dotted_@2X.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/shlub.jpg": {
+		"ft": 16384,
+		"iS": 46937,
+		"oA": 0,
+		"oAP": "\/build\/img\/shlub.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/build\/index.html",
 		"oF": 0
 		},
 	"\/js\/.eslintrc.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/js\/.eslintrc-min.json",
+		"oAP": "\/build\/js\/.eslintrc-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -964,9 +691,9 @@
 	"\/js\/dist\/alert.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/alert-min.js",
+		"oAP": "\/build\/js\/dist\/alert-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -974,15 +701,15 @@
 	"\/js\/dist\/alert.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/alert.js.map",
+		"oAP": "\/build\/js\/dist\/alert.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/button.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/button-min.js",
+		"oAP": "\/build\/js\/dist\/button-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -990,15 +717,15 @@
 	"\/js\/dist\/button.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/button.js.map",
+		"oAP": "\/build\/js\/dist\/button.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/carousel.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/carousel-min.js",
+		"oAP": "\/build\/js\/dist\/carousel-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1006,15 +733,15 @@
 	"\/js\/dist\/carousel.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/carousel.js.map",
+		"oAP": "\/build\/js\/dist\/carousel.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/collapse.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/collapse-min.js",
+		"oAP": "\/build\/js\/dist\/collapse-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1022,15 +749,15 @@
 	"\/js\/dist\/collapse.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/collapse.js.map",
+		"oAP": "\/build\/js\/dist\/collapse.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/dropdown.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/dropdown-min.js",
+		"oAP": "\/build\/js\/dist\/dropdown-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1038,15 +765,15 @@
 	"\/js\/dist\/dropdown.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/dropdown.js.map",
+		"oAP": "\/build\/js\/dist\/dropdown.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/modal.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/modal-min.js",
+		"oAP": "\/build\/js\/dist\/modal-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1054,15 +781,15 @@
 	"\/js\/dist\/modal.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/modal.js.map",
+		"oAP": "\/build\/js\/dist\/modal.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/popover.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/popover-min.js",
+		"oAP": "\/build\/js\/dist\/popover-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1070,15 +797,15 @@
 	"\/js\/dist\/popover.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/popover.js.map",
+		"oAP": "\/build\/js\/dist\/popover.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/scrollspy-min.js",
+		"oAP": "\/build\/js\/dist\/scrollspy-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1086,15 +813,15 @@
 	"\/js\/dist\/scrollspy.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/scrollspy.js.map",
+		"oAP": "\/build\/js\/dist\/scrollspy.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/tab.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/tab-min.js",
+		"oAP": "\/build\/js\/dist\/tab-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1102,15 +829,15 @@
 	"\/js\/dist\/tab.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/tab.js.map",
+		"oAP": "\/build\/js\/dist\/tab.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/tooltip.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/tooltip-min.js",
+		"oAP": "\/build\/js\/dist\/tooltip-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1118,15 +845,15 @@
 	"\/js\/dist\/tooltip.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/tooltip.js.map",
+		"oAP": "\/build\/js\/dist\/tooltip.js.map",
 		"oF": 0
 		},
 	"\/js\/dist\/util.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/dist\/util-min.js",
+		"oAP": "\/build\/js\/dist\/util-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1134,15 +861,15 @@
 	"\/js\/dist\/util.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/dist\/util.js.map",
+		"oAP": "\/build\/js\/dist\/util.js.map",
 		"oF": 0
 		},
 	"\/js\/src\/alert.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/src\/alert-min.js",
+		"oAP": "\/build\/js\/src\/alert-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1150,9 +877,9 @@
 	"\/js\/src\/button.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/src\/button-min.js",
+		"oAP": "\/build\/js\/src\/button-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1160,9 +887,9 @@
 	"\/js\/src\/carousel.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/src\/carousel-min.js",
+		"oAP": "\/build\/js\/src\/carousel-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1170,9 +897,9 @@
 	"\/js\/src\/collapse.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/src\/collapse-min.js",
+		"oAP": "\/build\/js\/src\/collapse-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1180,9 +907,9 @@
 	"\/js\/src\/dropdown.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/src\/dropdown-min.js",
+		"oAP": "\/build\/js\/src\/dropdown-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1190,9 +917,9 @@
 	"\/js\/src\/modal.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/src\/modal-min.js",
+		"oAP": "\/build\/js\/src\/modal-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1200,9 +927,9 @@
 	"\/js\/src\/popover.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/src\/popover-min.js",
+		"oAP": "\/build\/js\/src\/popover-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1210,9 +937,9 @@
 	"\/js\/src\/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/src\/scrollspy-min.js",
+		"oAP": "\/build\/js\/src\/scrollspy-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1220,9 +947,9 @@
 	"\/js\/src\/tab.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/src\/tab-min.js",
+		"oAP": "\/build\/js\/src\/tab-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1230,9 +957,9 @@
 	"\/js\/src\/tooltip.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 1,
-		"oAP": "\/js\/src\/tooltip-min.js",
+		"oAP": "\/build\/js\/src\/tooltip-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1240,9 +967,9 @@
 	"\/js\/src\/util.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 1,
-		"oAP": "\/js\/src\/util-min.js",
+		"oAP": "\/build\/js\/src\/util-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1250,7 +977,7 @@
 	"\/js\/tests\/.eslintrc.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/js\/tests\/.eslintrc-min.json",
+		"oAP": "\/build\/js\/tests\/.eslintrc-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -1258,7 +985,7 @@
 	"\/js\/tests\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/index.html",
+		"oAP": "\/build\/js\/tests\/index.html",
 		"oF": 0
 		},
 	"\/js\/tests\/README.md": {
@@ -1270,7 +997,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/js\/tests\/README.html",
+		"oAP": "\/build\/js\/tests\/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1282,9 +1009,9 @@
 	"\/js\/tests\/unit\/alert.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/alert-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/alert-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1292,9 +1019,9 @@
 	"\/js\/tests\/unit\/button.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/button-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/button-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1302,9 +1029,9 @@
 	"\/js\/tests\/unit\/carousel.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/carousel-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/carousel-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1312,9 +1039,9 @@
 	"\/js\/tests\/unit\/collapse.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/collapse-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/collapse-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1322,9 +1049,9 @@
 	"\/js\/tests\/unit\/dropdown.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/dropdown-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/dropdown-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1332,9 +1059,9 @@
 	"\/js\/tests\/unit\/modal.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/modal-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/modal-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1342,9 +1069,9 @@
 	"\/js\/tests\/unit\/popover.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/popover-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/popover-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1352,9 +1079,9 @@
 	"\/js\/tests\/unit\/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/scrollspy-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/scrollspy-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1362,9 +1089,9 @@
 	"\/js\/tests\/unit\/tab.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/tab-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/tab-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1372,9 +1099,9 @@
 	"\/js\/tests\/unit\/tooltip.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/unit\/tooltip-min.js",
+		"oAP": "\/build\/js\/tests\/unit\/tooltip-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1385,16 +1112,16 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/vendor\/qunit-min.css",
+		"oAP": "\/build\/js\/tests\/vendor\/qunit-min.css",
 		"oF": 0,
 		"oS": 3
 		},
 	"\/js\/tests\/vendor\/qunit.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/tests\/vendor\/qunit-min.js",
+		"oAP": "\/build\/js\/tests\/vendor\/qunit-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1402,62 +1129,72 @@
 	"\/js\/tests\/visual\/alert.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/alert.html",
+		"oAP": "\/build\/js\/tests\/visual\/alert.html",
 		"oF": 0
 		},
 	"\/js\/tests\/visual\/button.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/button.html",
+		"oAP": "\/build\/js\/tests\/visual\/button.html",
 		"oF": 0
 		},
 	"\/js\/tests\/visual\/carousel.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/carousel.html",
+		"oAP": "\/build\/js\/tests\/visual\/carousel.html",
 		"oF": 0
 		},
 	"\/js\/tests\/visual\/collapse.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/collapse.html",
+		"oAP": "\/build\/js\/tests\/visual\/collapse.html",
 		"oF": 0
 		},
 	"\/js\/tests\/visual\/dropdown.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/dropdown.html",
+		"oAP": "\/build\/js\/tests\/visual\/dropdown.html",
 		"oF": 0
 		},
 	"\/js\/tests\/visual\/modal.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/modal.html",
+		"oAP": "\/build\/js\/tests\/visual\/modal.html",
 		"oF": 0
 		},
 	"\/js\/tests\/visual\/popover.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/popover.html",
+		"oAP": "\/build\/js\/tests\/visual\/popover.html",
 		"oF": 0
 		},
 	"\/js\/tests\/visual\/scrollspy.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/scrollspy.html",
+		"oAP": "\/build\/js\/tests\/visual\/scrollspy.html",
 		"oF": 0
 		},
 	"\/js\/tests\/visual\/tab.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/tab.html",
+		"oAP": "\/build\/js\/tests\/visual\/tab.html",
 		"oF": 0
 		},
 	"\/js\/tests\/visual\/tooltip.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/js\/tests\/visual\/tooltip.html",
+		"oAP": "\/build\/js\/tests\/visual\/tooltip.html",
 		"oF": 0
+		},
+	"\/jumbotron-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/jumbotron-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/jumbotron.css": {
 		"aP": 1,
@@ -1465,91 +1202,15 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/jumbotron-min.css",
+		"oAP": "\/build\/jumbotron-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"\/LICENSE": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/LICENSE",
-		"oF": 0
-		},
-	"\/nuget\/bootstrap.nuspec": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/nuget\/bootstrap.nuspec",
-		"oF": 0
-		},
-	"\/nuget\/bootstrap.sass.nuspec": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/nuget\/bootstrap.sass.nuspec",
-		"oF": 0
-		},
-	"\/nuget\/MyGet.ps1": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/nuget\/MyGet.ps1",
-		"oF": 0
-		},
-	"\/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/package-lock-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/package.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/package-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/robots.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/robots.txt",
+		"oAP": "\/build\/robots.txt",
 		"oF": 0
-		},
-	"\/sache.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/sache-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
 		},
 	"\/scss\/_alert.scss": {
 		"aP": 0,
@@ -1559,7 +1220,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_alert.css",
+		"oAP": "\/build\/scss\/_alert.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1572,7 +1233,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_badge.css",
+		"oAP": "\/build\/scss\/_badge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1585,7 +1246,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_breadcrumb.css",
+		"oAP": "\/build\/scss\/_breadcrumb.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1598,7 +1259,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_button-group.css",
+		"oAP": "\/build\/scss\/_button-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1611,7 +1272,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_buttons.css",
+		"oAP": "\/build\/scss\/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1624,7 +1285,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_card.css",
+		"oAP": "\/build\/scss\/_card.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1637,7 +1298,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_carousel.css",
+		"oAP": "\/build\/scss\/_carousel.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1650,7 +1311,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_close.css",
+		"oAP": "\/build\/scss\/_close.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1663,7 +1324,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_code.css",
+		"oAP": "\/build\/scss\/_code.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1676,7 +1337,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_custom-forms.css",
+		"oAP": "\/build\/scss\/_custom-forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1689,7 +1350,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_dropdown.css",
+		"oAP": "\/build\/scss\/_dropdown.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1702,7 +1363,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_forms.css",
+		"oAP": "\/build\/scss\/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1715,7 +1376,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_functions.css",
+		"oAP": "\/build\/scss\/_functions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1728,7 +1389,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_grid.css",
+		"oAP": "\/build\/scss\/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1741,7 +1402,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_images.css",
+		"oAP": "\/build\/scss\/_images.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1754,7 +1415,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_input-group.css",
+		"oAP": "\/build\/scss\/_input-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1767,7 +1428,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_jumbotron.css",
+		"oAP": "\/build\/scss\/_jumbotron.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1780,7 +1441,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_list-group.css",
+		"oAP": "\/build\/scss\/_list-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1793,7 +1454,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_media.css",
+		"oAP": "\/build\/scss\/_media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1806,7 +1467,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_mixins.css",
+		"oAP": "\/build\/scss\/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1819,7 +1480,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_modal.css",
+		"oAP": "\/build\/scss\/_modal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1832,7 +1493,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_nav.css",
+		"oAP": "\/build\/scss\/_nav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1845,7 +1506,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_navbar.css",
+		"oAP": "\/build\/scss\/_navbar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1858,7 +1519,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_pagination.css",
+		"oAP": "\/build\/scss\/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1871,7 +1532,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_popover.css",
+		"oAP": "\/build\/scss\/_popover.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1884,7 +1545,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_print.css",
+		"oAP": "\/build\/scss\/_print.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1897,7 +1558,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_progress.css",
+		"oAP": "\/build\/scss\/_progress.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1910,7 +1571,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_reboot.css",
+		"oAP": "\/build\/scss\/_reboot.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1923,7 +1584,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_tables.css",
+		"oAP": "\/build\/scss\/_tables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1936,7 +1597,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_tooltip.css",
+		"oAP": "\/build\/scss\/_tooltip.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1949,7 +1610,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_transitions.css",
+		"oAP": "\/build\/scss\/_transitions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1962,7 +1623,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_type.css",
+		"oAP": "\/build\/scss\/_type.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1975,7 +1636,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_utilities.css",
+		"oAP": "\/build\/scss\/_utilities.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1988,7 +1649,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_variables.css",
+		"oAP": "\/build\/scss\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2001,7 +1662,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/scss\/bootstrap-grid.css",
+		"oAP": "\/build\/scss\/bootstrap-grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2014,7 +1675,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/scss\/bootstrap-reboot.css",
+		"oAP": "\/build\/scss\/bootstrap-reboot.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2027,7 +1688,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/scss\/bootstrap.css",
+		"oAP": "\/build\/scss\/bootstrap.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2040,7 +1701,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_alert.css",
+		"oAP": "\/build\/scss\/mixins\/_alert.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2053,7 +1714,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_background-variant.css",
+		"oAP": "\/build\/scss\/mixins\/_background-variant.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2066,7 +1727,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_badge.css",
+		"oAP": "\/build\/scss\/mixins\/_badge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2079,7 +1740,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_border-radius.css",
+		"oAP": "\/build\/scss\/mixins\/_border-radius.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2092,7 +1753,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_box-shadow.css",
+		"oAP": "\/build\/scss\/mixins\/_box-shadow.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2105,7 +1766,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_breakpoints.css",
+		"oAP": "\/build\/scss\/mixins\/_breakpoints.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2118,7 +1779,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_buttons.css",
+		"oAP": "\/build\/scss\/mixins\/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2131,7 +1792,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_clearfix.css",
+		"oAP": "\/build\/scss\/mixins\/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2144,7 +1805,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_float.css",
+		"oAP": "\/build\/scss\/mixins\/_float.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2157,7 +1818,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_forms.css",
+		"oAP": "\/build\/scss\/mixins\/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2170,7 +1831,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_gradients.css",
+		"oAP": "\/build\/scss\/mixins\/_gradients.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2183,7 +1844,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_grid-framework.css",
+		"oAP": "\/build\/scss\/mixins\/_grid-framework.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2196,7 +1857,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_grid.css",
+		"oAP": "\/build\/scss\/mixins\/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2209,7 +1870,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_hover.css",
+		"oAP": "\/build\/scss\/mixins\/_hover.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2222,7 +1883,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_image.css",
+		"oAP": "\/build\/scss\/mixins\/_image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2235,7 +1896,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_list-group.css",
+		"oAP": "\/build\/scss\/mixins\/_list-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2248,7 +1909,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_lists.css",
+		"oAP": "\/build\/scss\/mixins\/_lists.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2261,7 +1922,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_nav-divider.css",
+		"oAP": "\/build\/scss\/mixins\/_nav-divider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2274,7 +1935,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_navbar-align.css",
+		"oAP": "\/build\/scss\/mixins\/_navbar-align.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2287,7 +1948,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_pagination.css",
+		"oAP": "\/build\/scss\/mixins\/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2300,7 +1961,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_reset-text.css",
+		"oAP": "\/build\/scss\/mixins\/_reset-text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2313,7 +1974,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_resize.css",
+		"oAP": "\/build\/scss\/mixins\/_resize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2326,7 +1987,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_screen-reader.css",
+		"oAP": "\/build\/scss\/mixins\/_screen-reader.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2339,7 +2000,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_size.css",
+		"oAP": "\/build\/scss\/mixins\/_size.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2352,7 +2013,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_table-row.css",
+		"oAP": "\/build\/scss\/mixins\/_table-row.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2365,7 +2026,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_text-emphasis.css",
+		"oAP": "\/build\/scss\/mixins\/_text-emphasis.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2378,7 +2039,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_text-hide.css",
+		"oAP": "\/build\/scss\/mixins\/_text-hide.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2391,7 +2052,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_text-truncate.css",
+		"oAP": "\/build\/scss\/mixins\/_text-truncate.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2404,7 +2065,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_transition.css",
+		"oAP": "\/build\/scss\/mixins\/_transition.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2417,7 +2078,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/mixins\/_visibility.css",
+		"oAP": "\/build\/scss\/mixins\/_visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2430,7 +2091,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_align.css",
+		"oAP": "\/build\/scss\/utilities\/_align.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2443,7 +2104,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_background.css",
+		"oAP": "\/build\/scss\/utilities\/_background.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2456,7 +2117,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_borders.css",
+		"oAP": "\/build\/scss\/utilities\/_borders.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2469,7 +2130,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_clearfix.css",
+		"oAP": "\/build\/scss\/utilities\/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2482,7 +2143,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_display.css",
+		"oAP": "\/build\/scss\/utilities\/_display.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2495,7 +2156,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_embed.css",
+		"oAP": "\/build\/scss\/utilities\/_embed.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2508,7 +2169,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_flex.css",
+		"oAP": "\/build\/scss\/utilities\/_flex.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2521,7 +2182,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_float.css",
+		"oAP": "\/build\/scss\/utilities\/_float.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2534,7 +2195,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_position.css",
+		"oAP": "\/build\/scss\/utilities\/_position.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2547,7 +2208,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_screenreaders.css",
+		"oAP": "\/build\/scss\/utilities\/_screenreaders.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2560,7 +2221,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_sizing.css",
+		"oAP": "\/build\/scss\/utilities\/_sizing.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2573,7 +2234,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_spacing.css",
+		"oAP": "\/build\/scss\/utilities\/_spacing.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2586,7 +2247,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_text.css",
+		"oAP": "\/build\/scss\/utilities\/_text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2599,7 +2260,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/utilities\/_visibility.css",
+		"oAP": "\/build\/scss\/utilities\/_visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2613,7 +2274,8 @@
 	"creationDate": 527541286,
 	"displayValue": "Civil Engagement",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-kahn"
+	"iconImageName": "meme-kahn",
+	"lastBuiltDate": 527623491
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2868,7 +2530,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -4419,7 +4081,7 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
 		},
@@ -4436,10 +4098,10 @@
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
-		"autoOutputPathRelativePath": "",
+		"autoOutputPathRelativePath": "html",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 3
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -4754,7 +4416,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "\/build"
 	},
 "settingsFileVersion": "3"
 }

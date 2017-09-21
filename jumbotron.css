@@ -1,21 +1,86 @@
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed');
 
-
-body, jumbotron {
+/* Document Wide */
+body, div.jumbotron {
   padding-top: 3.5rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #D1D1D1;
+  color: #32292f;
 }
 
+div.jumbotron {
+    background-color: #FAFAFA;
+}
 
 .col-sm, .col-sm-4 {
     display: flex;
-    align-items: stretch;
+    align-items: stretch;    
 }
+
+/* Typography */
+#shows .card-title {
+    font-size: 1.5em;
+    font-weight: 800;
+    background-color: #e5d9f2;
+    padding: .5em;
+    color: #32292f;
+}
+
+#shows .h6 {
+    font-weight: 400;
+    color: #32292f;
+    
+}
+
+
+
+
+/* Navigation */
+.navbar.navbar-expand-md {
+    background-color: #681b7c;
+    border-bottom: 3px solid white;
+}
+
+a.nav-link, a.navbar-brand {
+    color: #FAFAFA;
+    text-transform: uppercase;
+    font-size: .9em;
+    
+}
+
+a.navbar-brand {
+    font-size: 1.5em;
+}
+
+
+/* Body*/
 
 .title {
     
-    font-family: 'Libre Baskerville', serif;
     font-size: 5vw;
 /*    color: #9D50BB;*/
     text-align: center;
     padding: 0% 0% 2% 0%;
 }
+
+#currentevent {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    
+}
+
+#currentevent img {
+    width: 100%;
+    min-height: 100px;
+    max-height: 200px;
+    overflow: hidden;
+}
+
+
+#recentbroadcast {
+    
+    background-color: #e5d9f2;
+    
+}
+
