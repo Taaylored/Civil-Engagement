@@ -189,19 +189,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/assets\/palette.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/assets\/palette.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/assets\/scss\/_ads.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -681,7 +668,7 @@
 		"oAP": "\/build\/img\/sample_background.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/shlub.jpg": {
@@ -2295,7 +2282,7 @@
 	"displayValue": "Civil Engagement",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-kahn",
-	"lastBuiltDate": 527623491
+	"lastBuiltDate": 527745226
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
