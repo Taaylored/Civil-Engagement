@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:400,700');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 
-/* Document Wide */
-
+/* Super Macro */
 body, div.jumbotron {
     font-family: 'Roboto', sans-serif;
     background: #ECE9E6;  /* fallback for old browsers */
@@ -11,6 +11,9 @@ body, div.jumbotron {
     padding-top: 3rem;
 }
 
+.card {
+    border: none;
+}
 
 .col-sm, .col-sm-4, .col-sm-8 {
     display: flex;
@@ -20,15 +23,96 @@ body, div.jumbotron {
 
 .col-sm-8 {
     flex-direction: column;
+    background-color: white;
    
 }
 
 
+.greet {
+    color: black;
+    text-align: center;
+}
+
+.motto {
+    font-family: 'Permanent Marker', cursive;
+    color: #833ab4;
+    font-size: 2.8em;
+    font-weight: 800;
+    height: 98%;
+    padding-bottom: 2%;
+}
+
+.more {
+    color: #833ab4;
+    border: 1px solid #833ab4;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+.more:hover {
+    
+    background-color: #833ab4;
+    color:white;
+    text-decoration: none;
+}
+
+span.avoidwrap { display:inline-block; }
+
+
+.shows {
+    flex: 1;
+}
+
+
+.one {
+    background-color: #833ab4;
+} 
+
+.two {
+    background-color: #b43a3a;
+}
+
+.three {
+    background-color: #3ab4b4;
+}
+
+.four {
+    background-color: #3fb43a;
+} 
+
+.five {
+    background-color: #e3e33c;
+} 
+
+.card-img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    opacity: .3%;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;  
+}
+
+.card-img:hover {
+    
+    transition: all .40 ease;
+}
+
+
+
 /* Typography */
 .card-title {
-    font-size: 1.5em;
+    font-size: 1.7em;
     font-weight: 800;
     color: #32292f;
+}
+
+.catagorie {
+    position: absolute;
+    text-align: right;
+    font-size: 2.5em;
+    font-weight: 800;
+    color: #fff;
 }
 
 
@@ -52,19 +136,9 @@ a.navbar-brand {
     font-size: 1.5em;
 }
 
-img.mic {
-    overflow: hidden;
-}
 
 
 /* Body*/
-.title {
-    
-    font-size: 5vw;
-/*    color: #9D50BB;*/
-    text-align: center;
-    padding: 0% 0% 2% 0%;
-}
 
 div.card-inverse {
     flex: 1;
@@ -72,7 +146,6 @@ div.card-inverse {
 }
 
 #recentbroadcast {
-    flex: 1;
-    
+    flex: 1;    
 }
 
