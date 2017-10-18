@@ -4,27 +4,108 @@
 /* Super Macro */
 body, div.jumbotron {
     font-family: 'Roboto', sans-serif;
-    background: #ECE9E6;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to bottom, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to bottom, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #32292f;
-    padding-top: 3rem;
+    padding-top: 5%;
+}
+
+.jumbotron {
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #FFFFFF, #f2f2f2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #FFFFFF, #f2f2f2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .card {
     border: none;
 }
 
+/*
 .col-sm, .col-sm-4, .col-sm-8 {
     display: flex;
     align-items: stretch;    
     align-content: stretch;
 }
+*/
 
 .col-sm-8 {
     flex-direction: column;
     background-color: white;
    
+}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 3rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+.featurette img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;  
+}
+
+.tint {
+  position: relative;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  filter: grayscale(100%);
+  transition: all .3s linear;
+}
+
+.tint:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.tint:hover {
+    filter: none;
+}
+
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
 }
 
 
@@ -50,53 +131,62 @@ body, div.jumbotron {
 }
 
 .more:hover {
-    
     background-color: #833ab4;
-    color:white;
+    color: white;
     text-decoration: none;
 }
 
-span.avoidwrap { display:inline-block; }
+span.avoidwrap { 
+    display:inline-block; 
+}
 
 
 .shows {
     flex: 1;
 }
 
-
-.one {
-    background-color: #833ab4;
-} 
-
-.two {
-    background-color: #b43a3a;
+.card-header {
+    background-color: white;
+    text-align: left;
+    color: #833ab4;
+    padding: none;
 }
 
-.three {
-    background-color: #3ab4b4;
+.card-block {
+    text-align: center;   
 }
 
-.four {
-    background-color: #3fb43a;
-} 
-
-.five {
-    background-color: #e3e33c;
-} 
-
-.card-img {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    opacity: .3%;
-    object-fit: cover;
-    height: 100%;
-    width: 100%;  
+.card-img-top {
+    border-radius: 90%;
 }
 
-.card-img:hover {
+.card-block h4 {
+    font-size: 1.8em;
+    color: #32292f;
+    padding: 2%;
+    text-transform: uppercase;
+    font-weight: 800;
+    padding: 10% 0% 3% 0%;
+}
     
-    transition: all .40 ease;
+.card-block p {
+    padding: 5% 0% 0% 0%;
+    position: relative;
+    bottom: 0;
+    right: 0;
+    
 }
+
+.card-block a {
+        color: #833ab4;
+}
+
+.card-block a:hover {
+    background-color: #833ab4;
+    color: white;
+    text-decoration: none;
+}
+
 
 
 
@@ -107,12 +197,9 @@ span.avoidwrap { display:inline-block; }
     color: #32292f;
 }
 
-.catagorie {
-    position: absolute;
-    text-align: right;
-    font-size: 2.5em;
-    font-weight: 800;
-    color: #fff;
+.text-muted {
+    font-size: .7em;
+    display: block;
 }
 
 
@@ -124,16 +211,28 @@ span.avoidwrap { display:inline-block; }
     border-bottom: 3px solid #833ab4;
 }
 
-a.nav-link, a.navbar-brand {
+a.nav-link {
     color: #32292f;
     text-transform: uppercase;
     font-size: .9em;
     font-family: 'Roboto Condensed', sans-serif;
-    
 }
 
-a.navbar-brand {
-    font-size: 1.5em;
+.nav-link:hover {
+    background-color: #833ab4;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px 4px 0px 0px;
+}
+
+nav ul {
+    position: absolute;
+    bottom: 0;
+}
+
+nav img {
+    max-height: 80px; 
+    padding-right: 2%;
 }
 
 
