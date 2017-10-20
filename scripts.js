@@ -5,3 +5,4 @@ console.log(year);
 
 // Set or display the date
 $('span.year').text(year);
+
